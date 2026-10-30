@@ -2,7 +2,7 @@
 
 Uma fonte **gratuita** para o [Hydra Launcher](https://github.com/hydralauncher/hydra) **também podendo ser utilizada sem o Hydra** com links de download de **mods de Doki Doki Literature Club! traduzidos para português do Brasil**, para facilitar a vida de quem tem dificuldade em achar e instalar.
 
-> **Projeto de fã, sem afiliação com a Team Salvato.** Os mods e as traduções são obras dos seus criadores e tradutores, creditados estão citados na planilha de mods que foram adicionados a esse projeto. **Jogue o DDLC original antes de qualquer mod:** [Download oficial](https://teamsalvato.itch.io/ddlc/purchase)
+> **Projeto de fã, sem afiliação com a Team Salvato e sem afiliação com o Hydra Launcher** Os mods e as traduções são obras dos seus criadores e tradutores, creditados estão citados na planilha de mods que foram adicionados a esse projeto. **Jogue o DDLC original antes de qualquer mod:** [Download oficial](https://teamsalvato.itch.io/ddlc/purchase)
 
 > 🚧 **Projeto em construção.** A lista cresce aos poucos, conforme os links são testados, o README continuará sendo aprimorado.
 
