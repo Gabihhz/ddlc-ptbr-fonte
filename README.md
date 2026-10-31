@@ -4,7 +4,7 @@ Uma fonte **gratuita** para o [Hydra Launcher](https://github.com/hydralauncher/
 
 > **Projeto de fã, sem afiliação com a Team Salvato e sem afiliação com o Hydra Launcher** Os mods e as traduções são obras dos seus criadores e tradutores, creditados estão citados na planilha de mods que foram adicionados a esse projeto. **Jogue o DDLC original antes de qualquer mod:** [Download oficial](https://teamsalvato.itch.io/ddlc/purchase)
 
-> 🚧 **Projeto em construção.** A lista cresce aos poucos, conforme os links são testados, o README continuará sendo aprimorado.
+> 🚧⚠️ **Projeto em construção.** A lista cresce aos poucos, conforme os links são testados, o README continuará sendo aprimorado.
 
 
 ## Como adicionar a fonte no Hydra
