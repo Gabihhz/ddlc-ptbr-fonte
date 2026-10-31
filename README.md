@@ -97,7 +97,7 @@ Seguimos as [diretrizes de propriedade intelectual da Team Salvato](https://team
 
 Se você fez um mod ou uma tradução listada aqui e quer **corrigir seus créditos, atualizar um link ou pedir a remoção**, abra uma *issue* neste repositório. Qualquer pedido de remoção é atendido.
 
-## Licença
+## Licença 
 
 O código e a estrutura original da fonte, incluindo o fonte.json desenvolvido para este projeto, são disponibilizados sob a Licença MIT, respeitando os direitos de terceiros sobre os materiais e conteúdos incluídos.
 Sinta-se à vontade para utilizar, copiar, modificar e redistribuir esses materiais, respeitando os termos da licença e preservando os avisos de  `direitos autorais ` e o texto da licença nas redistribuições aplicáveis.
